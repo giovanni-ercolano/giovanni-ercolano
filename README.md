@@ -18,6 +18,6 @@ Currently:
 
 - Twitter: [Twitter](https://twitter.com/GioErco)
 
-- Personal Website(development in progress): [My Website](https://giovanni-ercolano.github.io/)
+- Portfolio: [My Website](https://giovanni-ercolano.dev)
 
 <!-- The rest of the information remains unchanged. -->
